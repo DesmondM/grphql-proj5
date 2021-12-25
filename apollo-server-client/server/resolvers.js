@@ -5,7 +5,7 @@ const resolvers = {
             return "Welcome to GraphQl Project"
         },
         bye:()=>{
-            return "Good bye - we done"
+            return "Good bye"
         }
     }
 }
